@@ -1,0 +1,17 @@
+C:\Users\SWIFT\Desktop\Startup\Task\FSCode\Infrastructure\FSCode.Infrastructure\bin\Debug\net6.0\FSCode.Infrastructure.deps.json
+C:\Users\SWIFT\Desktop\Startup\Task\FSCode\Infrastructure\FSCode.Infrastructure\bin\Debug\net6.0\FSCode.Infrastructure.dll
+C:\Users\SWIFT\Desktop\Startup\Task\FSCode\Infrastructure\FSCode.Infrastructure\bin\Debug\net6.0\FSCode.Infrastructure.pdb
+C:\Users\SWIFT\Desktop\Startup\Task\FSCode\Infrastructure\FSCode.Infrastructure\bin\Debug\net6.0\FSCode.Application.dll
+C:\Users\SWIFT\Desktop\Startup\Task\FSCode\Infrastructure\FSCode.Infrastructure\bin\Debug\net6.0\FSCode.Domain.dll
+C:\Users\SWIFT\Desktop\Startup\Task\FSCode\Infrastructure\FSCode.Infrastructure\bin\Debug\net6.0\FSCode.Application.pdb
+C:\Users\SWIFT\Desktop\Startup\Task\FSCode\Infrastructure\FSCode.Infrastructure\bin\Debug\net6.0\FSCode.Domain.pdb
+C:\Users\SWIFT\Desktop\Startup\Task\FSCode\Infrastructure\FSCode.Infrastructure\obj\Debug\net6.0\FSCode.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\SWIFT\Desktop\Startup\Task\FSCode\Infrastructure\FSCode.Infrastructure\obj\Debug\net6.0\FSCode.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SWIFT\Desktop\Startup\Task\FSCode\Infrastructure\FSCode.Infrastructure\obj\Debug\net6.0\FSCode.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\SWIFT\Desktop\Startup\Task\FSCode\Infrastructure\FSCode.Infrastructure\obj\Debug\net6.0\FSCode.Infrastructure.AssemblyInfo.cs
+C:\Users\SWIFT\Desktop\Startup\Task\FSCode\Infrastructure\FSCode.Infrastructure\obj\Debug\net6.0\FSCode.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\SWIFT\Desktop\Startup\Task\FSCode\Infrastructure\FSCode.Infrastructure\obj\Debug\net6.0\FSCode.Infrastructure.csproj.CopyComplete
+C:\Users\SWIFT\Desktop\Startup\Task\FSCode\Infrastructure\FSCode.Infrastructure\obj\Debug\net6.0\FSCode.Infrastructure.dll
+C:\Users\SWIFT\Desktop\Startup\Task\FSCode\Infrastructure\FSCode.Infrastructure\obj\Debug\net6.0\refint\FSCode.Infrastructure.dll
+C:\Users\SWIFT\Desktop\Startup\Task\FSCode\Infrastructure\FSCode.Infrastructure\obj\Debug\net6.0\FSCode.Infrastructure.pdb
+C:\Users\SWIFT\Desktop\Startup\Task\FSCode\Infrastructure\FSCode.Infrastructure\obj\Debug\net6.0\ref\FSCode.Infrastructure.dll

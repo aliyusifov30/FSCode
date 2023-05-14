@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\SWIFT\\Desktop\\Startup\\Task\\FSCode\\Presentation\\FSCode.Api\\wwwroot\\Templates\\Reminder.html",
+      "PackagePath": "staticwebassets\\Templates\\Reminder.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FSCode.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FSCode.Api.props",
+      "PackagePath": "build\\FSCode.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FSCode.Api.props",
+      "PackagePath": "buildMultiTargeting\\FSCode.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FSCode.Api.props",
+      "PackagePath": "buildTransitive\\FSCode.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

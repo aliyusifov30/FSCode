@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "tBS6PbJl34RMpMJTgZ6Oz6EqXRFhzUk2hWVKXEiXLxo=",
+  "Source": "FSCode.Api",
+  "BasePath": "_content/FSCode.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FSCode.Api\\wwwroot",
+      "Source": "FSCode.Api",
+      "ContentRoot": "C:\\Users\\SWIFT\\Desktop\\Startup\\Task\\FSCode\\Presentation\\FSCode.Api\\wwwroot\\",
+      "BasePath": "_content/FSCode.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\SWIFT\\Desktop\\Startup\\Task\\FSCode\\Presentation\\FSCode.Api\\wwwroot\\Templates\\Reminder.html",
+      "SourceId": "FSCode.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SWIFT\\Desktop\\Startup\\Task\\FSCode\\Presentation\\FSCode.Api\\wwwroot\\",
+      "BasePath": "_content/FSCode.Api",
+      "RelativePath": "Templates/Reminder.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Templates\\Reminder.html"
+    }
+  ]
+}
